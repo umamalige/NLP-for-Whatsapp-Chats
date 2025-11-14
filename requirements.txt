@@ -1,0 +1,8 @@
+tk
+pandas==2.1.4
+spacy==3.7.2
+matplotlib==3.8.2
+seaborn==0.13.0
+wordcloud==1.9.2
+numpy==1.26.2
+nltk==3.8.1
